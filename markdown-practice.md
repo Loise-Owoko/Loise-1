@@ -61,12 +61,12 @@ print(greet("World"))
 
 ---
 
-## **Exercise 8 — Blockquote**
+## Exercise 8 — Blockquote
 
 Consistency beats intensity. Small progress every day builds real expertise.
 
-# **About Me**
+# About Me
 
 Hi, I'm Loise 👋
 
-I am passionate about technology, customer experience, and continuous improvement.
+I am passionate about *technology*, *customer experience*, and *continuous improvement*.
